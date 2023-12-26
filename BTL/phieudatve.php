@@ -262,7 +262,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="sidebar-widget widget_text">            <div class="textwidget"><div class="social-top">
 <ul>
 <li>
-            <a href="https://www.facebook.com/DailyvexeHaNoiVinh"><i class="fa fa-facebook"></i><br />
+            <a href="https://www.facebook.com/vinarailways"><i class="fa fa-facebook"></i><br />
         </a>
         </li>
 <li>
@@ -274,7 +274,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </a>
         </li>
 <li>
-            <a href="https://www.youtube.com/channel/UCVGN2liHOox8Ob8sbb88qhQ?view_as=subscriber"><i class="fa fa-youtube"></i><br />
+            <a href="https://www.youtube.com/"><i class="fa fa-youtube"></i><br />
         </a>
         </li>
 </ul>
@@ -288,7 +288,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <header >
         <div class="center-wrap">
             <div class="companyIdentity">
-                                                            <a href="http://localhost/project/"><img src="wp-content/uploads/2018/05/dsvn1.png" alt="Tàu Bông Sen Vàng" /></a>
+                                                            <a href="http://localhost/BTL/"><img src="wp-content/uploads/2018/05/dsvn1.png" alt="Tàu Bông Sen Vàng" /></a>
                                                 </div><!-- end .companyIdentity -->
             <nav>
                 <ul id="menu-main-nav">
@@ -345,7 +345,7 @@ $db->exec("set names utf8");
                             <th>Tên Khách Hàng</th>
                             <th data-toggle="true">SĐT</th>
                             <th>Số CMT</th>
-                            <th >Tmail</th>
+                            <th >Email</th>
                             <th >Tên Tàu</th>
                             <th >Tên Toa</th>
                             <th >Số Ghế</th>

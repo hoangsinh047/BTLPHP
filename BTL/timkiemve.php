@@ -342,7 +342,7 @@ header .sub-menu {
                                 <div class="social-top">
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/DailyvexeHaNoiVinh"><i class="fa fa-facebook"></i><br />
+                                            <a href="https://www.facebook.com/vinarailways"><i class="fa fa-facebook"></i><br />
                                             </a>
                                         </li>
                                         <li>
@@ -354,7 +354,7 @@ header .sub-menu {
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.youtube.com/channel/UCVGN2liHOox8Ob8sbb88qhQ?view_as=subscriber"><i class="fa fa-youtube"></i><br />
+                                            <a href="https://www.youtube.com/"><i class="fa fa-youtube"></i><br />
                                             </a>
                                         </li>
                                     </ul>
